@@ -2,6 +2,11 @@
   <JSCodeStyleSettings version="0">
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
+  <Python>
+    <option name="BLANK_LINES_AFTER_LOCAL_IMPORTS" value="1" />
+    <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
+    <option name="HANG_CLOSING_BRACKETS" value="true" />
+  </Python>
   <codeStyleSettings language="JavaScript">
     <option name="SPACE_WITHIN_PARENTHESES" value="true" />
   </codeStyleSettings>
