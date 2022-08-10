@@ -11,6 +11,10 @@
         <option value="com.intellij.cdi" />
         <option value="com.intellij.javaee.jpa" />
         <option value="com.intellij.spring.data" />
+        <option value="com.intellij.spring" />
+        <option value="com.intellij.spring.boot" />
+        <option value="com.intellij.spring.messaging" />
+        <option value="com.intellij.spring.cloud" />
       </list>
     </option>
   </component>
