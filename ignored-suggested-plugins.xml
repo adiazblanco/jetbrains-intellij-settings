@@ -5,6 +5,12 @@
         <option value="org.dynamodb4idea" />
         <option value="aws.toolkit" />
         <option value="com.intellij.bigdatatools" />
+        <option value="com.intellij.beanValidation" />
+        <option value="com.intellij.spring.mvc" />
+        <option value="com.intellij.javaee.web" />
+        <option value="com.intellij.cdi" />
+        <option value="com.intellij.javaee.jpa" />
+        <option value="com.intellij.spring.data" />
       </list>
     </option>
   </component>
